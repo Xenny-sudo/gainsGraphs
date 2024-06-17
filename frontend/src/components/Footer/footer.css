@@ -1,0 +1,12 @@
+footer {
+    background: #7a2727;
+    display: flex;
+    grid-row-start: 5;
+    justify-content: center;
+    min-height: 3rem;
+}
+
+.footer-items {
+    list-style-type: none;
+    color: white;
+}

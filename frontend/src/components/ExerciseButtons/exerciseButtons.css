@@ -1,0 +1,18 @@
+.exeButton{
+    display: flex;
+    justify-content: center;
+    column-gap: 5rem;
+}
+
+.exeButton-item{
+    color: white;
+    background: #7a2727;
+    border: none;
+    border-radius: .15rem;
+    padding: 0.75rem 1.25rem;
+}
+
+.exeButton-item:hover{
+    cursor: pointer;
+    background: #5c1d1d;
+}
